@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.2
-Release:	4
+Release:	5
 Summary:	Class to format XML documents
 License:	PHP License
 Group:		Development/PHP
