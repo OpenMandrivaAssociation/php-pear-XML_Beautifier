@@ -8,7 +8,7 @@ Release:	5
 Summary:	Class to format XML documents
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/XML_Beautifier/
+URL:		https://pear.php.net/package/XML_Beautifier/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
